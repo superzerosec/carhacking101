@@ -96,7 +96,7 @@ git clone https://github.com/shipcod3/canTot.git
 cd canTot
 ```
 
-Intalling python virtual env and create `venv_cantot`
+Installing python virtual env and create `venv_cantot`
 ```shell
 pip3 install virtualenv
 python3 -m venv venv_cantot
